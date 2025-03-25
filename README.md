@@ -1,10 +1,10 @@
-# AceBook
+# BeeBook
 
 # Overview
 Full-Stack web application replicating the core functionalities of the Facebook platform.
 
 # Tech Stack
-C#, Razor, HTML, CSS, SQL, Postgres
+C#, Razor, HTML, CSS, SQL, Postgres, NUnit
 
 # My Contributions
 - Navbar creation
