@@ -1,10 +1,14 @@
 # BeeBook
+Full-stack web application built using legacy code in a group project as part of Makers Academy in February 2025.
 
 # Overview
-Full-Stack web application replicating the core functionalities of the Facebook platform.
+BeeBook is a bee-themed web application replicating the core functionalities of the Facebook platform.
 
 # Tech Stack
 C#, Razor, HTML, CSS, SQL, Postgres, NUnit
+
+# Timeline
+10 days 
 
 # My Contributions
 - Navbar creation
