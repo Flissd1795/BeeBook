@@ -20,10 +20,7 @@ C#, Razor, HTML, CSS, SQL, Postgres
     - Accept: friend request deleted and friend added to profile friends list
     - Decline: friend request deleted from notifications page and database
 
-[🎥 Watch the demo](https://drive.google.com/file/d/1Blg5a4NrhESZBO7y3RX_xJU1IHX1ATXN/view)
-
-
-https://drive.google.com/drive/folders/1Blg5a4NrhESZBO7y3RX_xJU1IHX1ATXN 
+[🎥 Watch the demo]([https://drive.google.com/file/d/1Blg5a4NrhESZBO7y3RX_xJU1IHX1ATXN/view](https://drive.google.com/file/d/1fyK_GeFn3IxvGF2k2pQG_auDp-7IEtmS/view?usp=drive_link))
 
 
 ## Quickstart
